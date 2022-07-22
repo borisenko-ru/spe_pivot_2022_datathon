@@ -1,2 +1,2 @@
-[_/_/_/FINAL SUBMISSION_/_/_/](https://www.instagram.com/spetyumen/)
+[///FINAL SUBMISSION///](https://www.instagram.com/spetyumen/)
 <img src="https://github.com/borisenko-ru/spe_pivot_2022_datathon/blob/main/Images/objectives.jpg">
