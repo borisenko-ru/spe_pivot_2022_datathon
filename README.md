@@ -1,4 +1,4 @@
-##PIVOT2022 SPE Datathon
+## PIVOT2022 SPE Datathon
 
 Geothermal field development plan completed for [PIVOT2022 SPE Datathon](https://www.spegcs.org/events/6411) organized by SPE Gulf Coast Section, SPE Calgary, SPE Data Science and Engineering Analytics as part of [PIVOT2022](https://geo.touchcast.com/showtime/pivot2022/join) - the 5-day conference focused on addressing contemporary geothermal topics through spirited panels, roundtables, competitions, and fireside chats.
 
